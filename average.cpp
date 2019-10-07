@@ -3,7 +3,7 @@
 
 int main(){
 
-  std::cout << "Please enter 5 integers";;
+  std::cout << "Please enter 5 integers" << std::endl;
   int x = 0;
   int sum = 0;
   int num = 0;
